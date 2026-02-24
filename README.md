@@ -1,5 +1,6 @@
 # CS300
 CS 300 Module 8 Journal
+
 •	What was the problem you were solving in the projects for this course?
 The goal of these projects was to develop software for ABC University (ABCU) that helps computer science advisors access course information for students. The program would allow the user to load a list of courses from a file, print out the sorted list of courses, and search for a specific course within that list and see the course’s name, number, and prerequisites. 
 Project One was specifically for developing pseudocode for the software and figuring out which data structure (vector, hash table, or binary search tree) would be the best suited for this problem based on its runtime. Project Two was specifically for developing the actual program using one of the three data structures.
